@@ -1,0 +1,54 @@
+
+.jumbotron {
+
+    background-color: navy  !important; 
+    color: white            !important;
+    text-align: center;
+}
+
+i {
+
+    text-align: center;
+    font-family: 'Cormorant SC', serif; 
+}
+
+h3 {
+
+    font-size:25px; 
+    font-weight: normal; 
+}
+
+
+h2 {
+
+    color: greenyellow   !important;
+    font-family: 'VT323', monospace !important;
+    font-size: 25px;
+    text-align: left;
+}
+
+
+.panel-heading {
+
+    background-color:navy  !important;
+
+}
+
+h4 {
+
+    color: white   !important;
+    background-color:navy  !important;
+    font-size: 20px;
+}
+
+#newTrainBtn {
+
+    background-color: navy !important;
+    color: white   !important;
+}
+
+label {
+    color: gray   !important;
+    font-weight: normal;
+
+}
